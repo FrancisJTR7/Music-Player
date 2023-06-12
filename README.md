@@ -26,7 +26,6 @@ Welcome to the Spotify 2.0 Clone Music App project - an advanced version of the 
 - **Tailwind:** Implementing the utility-first CSS framework for rapidly building custom designs.
 - **Redux:** Managing the application state in a predictable container.
 - **RapidAPI:** Incorporating various APIs for added functionality and enriched user experience.
--
 
 ## **APIs Used**
 
